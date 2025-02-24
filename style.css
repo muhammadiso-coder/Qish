@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background: url("image/ex.jpg") no-repeat center center / cover;
+}
+
+.b{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.quyon{
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
